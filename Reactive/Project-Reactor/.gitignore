@@ -3,3 +3,9 @@
 *.doc
 *.docx
 *.pdf
+
+# Keys
+
+*.pem
+*.key
+
